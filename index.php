@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html class="jetpack-lazy-images-js-enabled" lang="es">
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="css/like.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all">
+	<link rel="stylesheet" id="twentytwelve-style-css" href="css/style(1).css" type="text/css" media="all">
+
+	
+	
+<title>Makoke</title>
+
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="css/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="twentytwelve-style-css" href="css/style(2).css" type="text/css" media="all">
+
+<link rel="stylesheet" id="open-sans-css" href="css/css(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="css/jetpack.css" type="text/css" media="all">
+
+<link rel="stylesheet" href="css/style3.css">
+</head>
+
+
+
+<img src="img/main-w.jpg" alt="">
+
+<div id="video" class="custom">
+	<video controls="controls" width="50%" height="100%" poster="video/poster.jpg"> 
+		<source src="video/stories.mp4">
+    </video>
+    <img src="img/inst.jpg" width="50%" height="100%" alt="">
+</div>
+
+
+</script>
+</body>
+</html>
